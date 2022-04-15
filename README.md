@@ -36,7 +36,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/IfeCoker/stats-preview-card-component.git](https://github.com/IfeCoker/stats-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -83,4 +82,4 @@ CSS flexbox layout module. To design flexible responsive layout structure.
 
 ## Acknowledgments
 
-My acknowledgment goes to an amazing and smart friend Aranwaolu (@https://www.linkedin.com/in/aranwaolu/)
+My acknowledgment goes to an amazing and smart friend Aranwaolu (https://www.linkedin.com/in/aranwaolu/)
