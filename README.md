@@ -75,12 +75,12 @@ CSS flexbox layout module. To design flexible responsive layout structure.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me for my CSS styling; using flexbox, web fonts, css filter property, and css gradients. I really liked this pattern and will use it going forward.
+- [w3schools.com](https://www.w3schools.com/) - This helped me for my CSS styling; using flexbox, web fonts, css filter property, and css gradients. I really liked this pattern and will use it going forward.
 
 ## Author
 
-- Frontend Mentor - [@IfeCoker](https://www.frontendmentor.io/profile/@IfeCoker)
+- Frontend Mentor - [@IfeCoker](https://www.frontendmentor.io/profile/IfeCoker)
 
 ## Acknowledgments
 
-My acknowledgment goes to an amazing and smart friend Aranwaolu @https://www.linkedin.com/in/aranwaolu/
+My acknowledgment goes to an amazing and smart friend Aranwaolu (@https://www.linkedin.com/in/aranwaolu/)
