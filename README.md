@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](stats-preview-card-component/screenshot.png)
+![](stats-preview-card-component/screenshot_desktop.png)
 
 ### Links
 
