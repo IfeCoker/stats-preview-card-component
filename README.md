@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/IfeCoker/stats-preview-card-component.git)
+- Solution URL: [https://github.com/IfeCoker/stats-preview-card-component.git](https://github.com/IfeCoker/stats-preview-card-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
