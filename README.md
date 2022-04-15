@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot_desktop.png)
+![](https://github.com/IfeCoker/stats-preview-card-component/blob/main/Screenshot_desktop.png)
 
 ### Links
 
